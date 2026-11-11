@@ -1,11 +1,11 @@
-"""Сценарии урока 1.3 для тестов и тренажера сбоев. Запуск отдельно: python scenarios.py task"""
+"""Сценарии инцидента 3 для тестов и тренажера сбоев. Запуск отдельно: python scenarios.py task"""
 import importlib
 import json
 import sys
 
 from velokrug import RidesApi
 
-TITLE = "1.3 Обход по закладке: данные меняются на ходу"
+TITLE = "Инцидент 3. Обход по закладке: данные меняются на ходу"
 FUNCTION = "fetch_all"
 SIX = [100, 101, 102, 103, 104, 105]
 

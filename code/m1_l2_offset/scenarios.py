@@ -1,9 +1,9 @@
-"""Сценарии урока 1.2 для тестов и тренажера сбоев. Запуск отдельно: python scenarios.py task"""
+"""Сценарии инцидента 2 для тестов и тренажера сбоев. Запуск отдельно: python scenarios.py task"""
 import importlib
 import json
 import sys
 
-TITLE = "1.2 Сдвиг страниц: дубли и потери по трассе"
+TITLE = "Инцидент 2. Сдвиг страниц: дубли и потери по трассе"
 FUNCTION = "diff_trace"
 
 CASES = [

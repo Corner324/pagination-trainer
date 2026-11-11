@@ -1,4 +1,4 @@
-"""Сценарии урока 1.4 для тестов и тренажера сбоев. Запуск отдельно: python scenarios.py task"""
+"""Сценарии инцидента 4 для тестов и тренажера сбоев. Запуск отдельно: python scenarios.py task"""
 import copy
 import importlib
 import json
@@ -6,7 +6,7 @@ import sys
 
 from traces import CASES
 
-TITLE = "1.4 Проверка трассы: полная ли выгрузка"
+TITLE = "Инцидент 4. Проверка трассы: полная ли выгрузка"
 FUNCTION = "check_trace"
 
 
